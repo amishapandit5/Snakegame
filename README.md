@@ -25,7 +25,7 @@ While developing this project, I gained valuable insights into the following:
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
